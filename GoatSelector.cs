@@ -2,7 +2,7 @@
 Goat Selector
 
 DESCRIPTION: 
-Manty Hall problem (http://en.wikipedia.org/wiki/Monty_Hall_problem) simulation. 
+Monty Hall problem (http://en.wikipedia.org/wiki/Monty_Hall_problem) simulation. 
 The program runs 10000 games for switch the door and stick.
 
 OUTPUT: 
