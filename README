@@ -1,0 +1,19 @@
+Goat Selector
+
+DESCRIPTION: 
+Manty Hall problem (http://en.wikipedia.org/wiki/Monty_Hall_problem) simulation. 
+The program runs 10000 games for switch the door and stick.
+
+OUTPUT: 
+Rates of success for the switch the door and stick strategies.
+
+HOW TO RUN:
+Open Visual Studio Command Prompt
+Execute:
+csc.exe GoatSelector.cs
+
+LINK:
+See this page for more details:
+http://evpo.wordpress.com/2008/06/25/car-and-two-goats/
+
+Evgeny Pokhilko 2013
